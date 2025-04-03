@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=042940&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 <br>
 <br>
-👩‍🎓 Eu sou a Larissa, tenho 25 anos, sou estudante de Engenharia de Software e tenho como objetivo me tornar desenvolverdora backend.
 <br>
 <br>
 📌Atuando como estagiária no Banco Itaú <br>
