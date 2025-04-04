@@ -6,7 +6,7 @@
 <br>
 📌Atuando como estagiária no Banco Itaú <br>
 📌Cursando o 3º semestre de Engenharia de Software na Fiap. <br>
-📌Ingles avançado. <br>
+📌Inglês avançado. <br>
 <br>
 🌱Em constante busca de aprendizado, profissional e pessoal!
 
